@@ -3,6 +3,5 @@ dataset
 .google-cookie
 extract.py
 leaf.h5
-leafTrain.py
 show.py
 wiki.py
